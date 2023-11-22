@@ -1,0 +1,8 @@
+MOTOR1: motorPin = 14;
+        pwmChannel = 0;
+
+MOTOR2: motorPin = 12;
+        pwmChannel = 1;
+
+  pwmFrequency = 5000;
+  resolution = 8;       
